@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="msg_err_password_short">Your password must be at least 6 characters long</string>
+    <string name="msg_err_incorrect_email">Please enter a valid email address</string>
+</resources>
